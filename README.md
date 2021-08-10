@@ -12,6 +12,10 @@ This project is clone Of Jira Board which helps in project management.
 
     ![prioritise-tasks](gifs/prioritise-tasks.gif)
 
-3. Remove Tasks
+3. Sort Tasks According to Priority
+   
+   ![sort-tasks](gifs/sort-tasks.gif)
+
+4. Remove Tasks
 
     ![remove-tasks](gifs/remove-tasks.gif)
